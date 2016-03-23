@@ -1,0 +1,2 @@
+# hdfsFtpServer
+hadoop ftp server 
